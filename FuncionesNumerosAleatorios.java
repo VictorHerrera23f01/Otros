@@ -8,10 +8,6 @@ package Otros;
 public class FuncionesNumerosAleatorios {
     public static void main(String[]args){
         
-        int x=10,y=3,resultado;
-        resultado=Math.floorDiv(x, y);
-        double resultadoDecimal=(double)x/y - resultado;
-        System.out.printf("%.3f",resultado+resultadoDecimal);
         
     }
     
